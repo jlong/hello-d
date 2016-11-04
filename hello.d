@@ -1,3 +1,5 @@
+#!/usr/bin/env rdmd
+
 import std.stdio;
 
 int main(string[] args) {
