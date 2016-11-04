@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "authors": [
+    "John W. Long"
+  ],
+  "description": "Canonical hello world program in D",
+  "copyright": "Copyright © 2016, John W. Long",
+  "license": "MIT",
+  "targetType": "executable",
+  "sourcePaths": ["."]
+}
